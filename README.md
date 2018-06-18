@@ -2,12 +2,12 @@
 
 A Rest API to validate if the input string has at least one set of alphabets. 
 
-##Requirements
+## Requirements
 1. Python 2.7 or Higher
 2. PyCharm Community Edition2018.1.1 OR Simialr Pyhton framework that has Flask installed ==0.12.2
    Flask_HTTPAuth==3.2.3 to access REST API
 
-##Run it on web browser
+## Run it on web browser
 1. After downloading run.py & string_validator.py
 2. Using pycharm or similar pyhton IDE, run program "run.py"
 3. Once the program runs successfully, it should print a url in the output similar to  'http://127.0.0.1:5000/'.
